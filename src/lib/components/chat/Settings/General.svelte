@@ -282,7 +282,7 @@
 						href="https://github.com/open-webui/open-webui/blob/main/docs/CONTRIBUTING.md#-translations-and-internationalization"
 						target="_blank"
 					>
-						Help us translate A.I.GLCND!
+						Help us translate Eden AI!
 					</a>
 				</div>
 			{/if}

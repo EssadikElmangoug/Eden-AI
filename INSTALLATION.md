@@ -1,4 +1,4 @@
-### Installing Both Ollama and A.I.GLCND Using Kustomize
+### Installing Both Ollama and Eden AI Using Kustomize
 
 For cpu-only pod
 
@@ -12,7 +12,7 @@ For gpu-enabled pod
 kubectl apply -k ./kubernetes/manifest
 ```
 
-### Installing Both Ollama and A.I.GLCND Using Helm
+### Installing Both Ollama and Eden AI Using Helm
 
 Package Helm file first
 

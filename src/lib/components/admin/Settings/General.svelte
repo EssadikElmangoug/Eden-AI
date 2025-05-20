@@ -177,7 +177,7 @@
 									{$i18n.t('Help')}
 								</div>
 								<div class=" text-xs text-gray-500">
-									{$i18n.t('Discover how to use A.I.GLCND and seek support from the community.')}
+									{$i18n.t('Discover how to use Eden AI and seek support from the community.')}
 								</div>
 							</div>
 

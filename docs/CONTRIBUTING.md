@@ -1,19 +1,19 @@
-# Contributing to A.I.GLCND
+# Contributing to Eden AI
 
 🚀 **Welcome, Contributors!** 🚀
 
-Your interest in contributing to A.I.GLCND is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make A.I.GLCND even better, together!
+Your interest in contributing to Eden AI is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make Eden AI even better, together!
 
 ## 📌 Key Points
 
-### 🦙 Ollama vs. A.I.GLCND
+### 🦙 Ollama vs. Eden AI
 
-It's crucial to distinguish between Ollama and A.I.GLCND:
+It's crucial to distinguish between Ollama and Eden AI:
 
-- **A.I.GLCND** focuses on providing an intuitive and responsive web interface for chat interactions.
+- **Eden AI** focuses on providing an intuitive and responsive web interface for chat interactions.
 - **Ollama** is the underlying technology that powers these interactions.
 
-If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). A.I.GLCND's repository is dedicated to the web interface aspect only.
+If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). Eden AI's repository is dedicated to the web interface aspect only.
 
 ### 🚨 Reporting Issues
 
@@ -26,11 +26,11 @@ Noticed something off? Have an idea? Check our [Issues tab](https://github.com/o
 
 ### 🧭 Scope of Support
 
-We've noticed an uptick in issues not directly related to A.I.GLCND but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
+We've noticed an uptick in issues not directly related to Eden AI but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
 
-- **Docker Deployment Support**: A.I.GLCND supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
+- **Docker Deployment Support**: Eden AI supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
 
-- **Advanced Configurations**: Setting up reverse proxies for HTTPS and managing Docker deployments requires foundational knowledge. There are numerous online resources available to learn these skills. Ensuring you have this knowledge will greatly enhance your experience with A.I.GLCND and similar projects.
+- **Advanced Configurations**: Setting up reverse proxies for HTTPS and managing Docker deployments requires foundational knowledge. There are numerous online resources available to learn these skills. Ensuring you have this knowledge will greatly enhance your experience with Eden AI and similar projects.
 
 ## 💡 Contributing
 
@@ -48,11 +48,11 @@ We welcome pull requests. Before submitting one, please:
 
 ### 📚 Documentation & Tutorials
 
-Help us make A.I.GLCND more accessible by improving documentation, writing tutorials, or creating guides on setting up and optimizing the web UI.
+Help us make Eden AI more accessible by improving documentation, writing tutorials, or creating guides on setting up and optimizing the web UI.
 
 ### 🌐 Translations and Internationalization
 
-Help us make A.I.GLCND available to a wider audience. In this section, we'll guide you through the process of adding new translations to the project.
+Help us make Eden AI available to a wider audience. In this section, we'll guide you through the process of adding new translations to the project.
 
 We use JSON files to store translations. You can find the existing translation files in the `src/lib/i18n/locales` directory. Each directory corresponds to a specific language, for example, `en-US` for English (US), `fr-FR` for French (France) and so on. You can refer to [ISO 639 Language Codes](http://www.lingoes.net/en/translator/langcode.htm) to find the appropriate code for a specific language.
 
@@ -68,6 +68,6 @@ Got questions or feedback? Join our [Discord community](https://discord.gg/5rJgQ
 
 ## 🙏 Thank You!
 
-Your contributions, big or small, make a significant impact on A.I.GLCND. We're excited to see what you bring to the project!
+Your contributions, big or small, make a significant impact on Eden AI. We're excited to see what you bring to the project!
 
 Together, let's create an even more powerful tool for the community. 🌟
